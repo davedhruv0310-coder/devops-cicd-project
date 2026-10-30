@@ -1,0 +1,21 @@
+# Gradle build outputs and caches
+.gradle/
+build/
+
+# Do NOT ignore Gradle wrapper JAR
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
