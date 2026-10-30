@@ -7,6 +7,7 @@ pipeline {
         APP_PORT_HOST  = "8081"
         APP_PORT_CONT  = "8080"
         HEALTH_URL     = "http://localhost:8081/api/status"
+        PATH           = "C:\\Users\\dhruv\\AppData\\Local\\Programs\\DockerDesktop\\resources\\bin;${env.PATH}"
     }
 
     stages {
