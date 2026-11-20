@@ -34,7 +34,7 @@ public class HomeController {
                         :root {
                             --bg-primary: #0a0e17;
                             --bg-card: rgba(18, 24, 38, 0.85);
-                            --accent-blue: #0c7a24ff;
+                            --accent-blue: #0c107aff;
                             --accent-cyan: #06b6d4;
                             --accent-green: #10b981;
                             --text-primary: #f8fafc;
